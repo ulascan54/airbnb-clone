@@ -2,7 +2,7 @@ Airbnb Clone Todo List
 ====================
 - [X] Install  and set up Nextjs, create project.
 - [X] Code for navbar.
-- [ ] Categories on the front page.
+- [X] Categories on the front page.
 - [ ] List proporties on the front page (static).
 - [ ] Detail page for properties (static).
 - [ ] Landlord page (static).
